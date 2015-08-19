@@ -23,13 +23,13 @@ time, mark, audio, video, input, textarea, button {
   border: 0;
   vertical-align: baseline;
   text-decoration: none;
-  color: black;
-  font-size: 1rem;
-  font-weight: normal;
-  font-style: normal;
-  background-color: transparent;
-  outline: none;
-  font-family: serif;
+  color: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  background-color: inherit;
+  outline: inherit;
+  font-family: inherit;
 }
 
 /* HTML5 display-role reset for older browsers */
