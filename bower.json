@@ -1,0 +1,23 @@
+{
+  "name": "wie-gott-sie-schuf",
+  "version": "0.0.0",
+  "authors": [
+    "Xiphe <github@xiphe.net>",
+    "hundekoerper"
+  ],
+  "description": "alle elemente sind gleich vor den augen der herren",
+  "main": "wie-gott-sie-schuf.css",
+  "keywords": [
+    "css",
+    "reset",
+    "equality"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "demo"
+  ]
+}
